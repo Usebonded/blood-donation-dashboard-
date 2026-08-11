@@ -64,3 +64,4 @@ try:
 
 except FileNotFoundError:
     st.error("Could not find `transfusion.data`. Make sure the file is saved directly inside your `CovidDashboardPython` folder.")
+    
